@@ -1,6 +1,6 @@
 #  Hi, I'm Xyu Chern.
 ----
-# Future Plan:
+## Future Plan:
 - Upload the XJTLU_CPT104 , INT102 ,INT104 , CPT102 in 2024 June
 - Update the all public repository for all new readers to read
 - Contiously update the UCB CS285 for initial readers
