@@ -1,7 +1,9 @@
 #  Hi, I'm Xyu Chern.
 ----
-## Future Plan:
+Previous Done:
 - Upload the XJTLU_CPT104 , INT102 ,INT104 , CPT102 in 2024 June
+----
+## Future Plan:
 - Update the all public repository for all new readers to read
 - Contiously update the UCB_CS285 repo what I have learnt
 - Sort out the acedemic paper I have ever read relevant to Diffusion , Offline Reinforcement Learning and Fitune work
