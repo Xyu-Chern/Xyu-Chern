@@ -1,7 +1,8 @@
 #  Hi, I'm Xyu Chern.
 ----
+## Done
+- Upload [XJTLU_CS_Wiki](https://github.com/Xyu-Chern/XJTLU_CS_Wiki) repo
+----
 ## Future Plan:
-- Contiously update the UCB_CS285 repo what I have learnt
-- Sort out the acedemic paper I have ever read relevant to Diffusion , Offline Reinforcement Learning and Fitune work
-- Sort out the my Probabilty Learning Paper manuscript into Electronic manuscript
-- Learnig lineaar Algebra :anguished:
+- Add CS285 , MIT probability into [XJTLU_CS_Wiki](https://github.com/Xyu-Chern/XJTLU_CS_Wiki) repo
+  
