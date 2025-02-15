@@ -1,4 +1,4 @@
-## XJTLU Open Sources : 
+## XJTLU ICS Notes : 
 -------------
 ### M2S1
 - [CPT101](https://github.com/Xyu-Chern/XJTLU_CPT101)
