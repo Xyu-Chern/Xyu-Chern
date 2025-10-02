@@ -9,5 +9,4 @@
 | M3S2 | [CPT202](https://github.com/Xyu-Chern/XJTLU_CPT202) - [CPT204](https://github.com/Xyu-Chern/XJTLU_CPT204) - [CPT208](https://github.com/Xyu-Chern/XJTLU_CPT208) - [INT202](https://github.com/Xyu-Chern/XJTLU_INT202) |
 | SURF | [2023](https://github.com/Xyu-Chern/SURF_2023) - [2024](https://github.com/Xyu-Chern/SURF_2024) - [2025](https://github.com/Dcyaprogrammer/SURF-2025) 
 
-## Previous Focus
-- Long horizon / Diffusion or Flow Mathing Model / Offline RL / Gymnax rebuilt with Mujoco / the small LLM model that can be trained with 24GB gpu in future
+
