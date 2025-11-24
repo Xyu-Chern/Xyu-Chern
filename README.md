@@ -5,7 +5,7 @@
 
 | Task | FQL | MFReBRAC | DMFReBRAC |
 |------|-----|----------|-----------|
-| **antmaze-large-navigate** | 80 ± 8 | 65 ± 13 | **83 ± 7** |
+| **antmaze-large-navigate**  80 ± 8  65 ± 13  **83 ± 7** 
 | **humanoidmaze-medium-navigate** | 19 ± 12 | 53 ± 14 | 52 ± 7 |
 | **humanoidmaze-large-navigate** | 7 ± 6 | **9 ± 4** | 8 ± 2 |
 | **antsoccer-arena-navigate** | 39 ± 6 | **45 ± 5** | 41 ± 6 |
