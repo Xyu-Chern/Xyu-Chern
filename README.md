@@ -24,19 +24,18 @@
 | puzzle-4x4-play-singletask-v0      | 11 ± 6 | 14 ± 4 |
 | Total     | 435 | 443 |
 
-| | FQL* | MFQL | DMFQL | MFQL$_\text{bptt}$ | MFFeBRAC | DMFReBRAC |
+| | FQL* | MFQL | DMFQL | MFQL$_{bptt}$ | MFFeBRAC | DMFReBRAC |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | antmaze-large-navigate-singletask-v0   | $80 \pm 8$ | $62 \pm 11$ | $72 \pm 8$ | $64 \pm 13$ | $65 \pm 13$ | $83 \pm 7$ |
 |humanoidmaze-medium-navigate-singletask-v0    | $19 \pm 12$ | $49 \pm 9$ | $44 \pm 13$ | $54 \pm 9$ | $53 \pm 14$ | $52 \pm 7$ |
 |  humanoidmaze-large-navigate-singletask-v0 | $7 \pm 6$ | $8 \pm 3$ | $7 \pm 3$ | $6 \pm 2$ | $9 \pm 4$ | $8 \pm 2$ |
-| antsoccer-arena-navigate-singletask-v0   | $39 \pm 6$ | $43 \pm 6$ | $37 \pm 5$ | $45 \pm 5$ | $45 \pm 5$ | $41 \pm 6$ |
+| antsoccer-arena-navigate-singletask-v0   | $39 \pm 6$ | $43 \pm 6$ | $37 \pm 5$ | $45 \pm 5$ | $91 \pm 5$ | $41 \pm 6$ |
 |cube-single-play-singletask-v0 | $97 \pm 2$ | $95 \pm 1$ | $98 \pm 1$ | $62 \pm 37$ | $91 \pm 5$ | $99 \pm 1$ |
 |cube-double-play-singletask-v0 | $36 \pm 6$ | $72 \pm 4$ | $75 \pm 6$ | $72 \pm 3$ | $74 \pm 4$ | $75 \pm 3$ |
 | scene-play-singletask-v0| $76 \pm 9$ | $57 \pm 20$ | $90 \pm 10$ | $68 \pm 15$ | $57 \pm 12$ | $92 \pm 6$ |
 | puzzle-3x3-play-singletask-v0 | $16 \pm 5$ | $7 \pm 3$ | $6 \pm 2$ | $1 \pm 1$ | $7 \pm 2$ | $5 \pm 2$ |
 | puzzle-4x4-play-singletask-v0   | $11 \pm 3$ | $24 \pm 3$ | $14 \pm 4$ | $0 \pm 0$ | $25 \pm 5$ | $12 \pm 3$ |
 | **Total** | **381** | **418** | **443** | **372** | **425** | **466** |
-| | --- | --- | --- | --- | --- | --- |
 |pen-human-v1 | $53 \pm 6$ | $75 \pm 9$ | $72 \pm 8$ | - | $64 \pm 9$ | $74 \pm 8$ |
 | pen-cloned-v1| $74 \pm 11$ | $75 \pm 9$ | $80 \pm 5$ | - | $71 \pm 12$ | $75 \pm 10$ |
 | pen-expert-v1| $142 \pm 6$ | $138 \pm 4$ | $130 \pm 8$ | - | $140 \pm 9$ | $143 \pm 4$ |
