@@ -24,7 +24,7 @@
 | puzzle-4x4-play-singletask-v0      | 11 ± 6 | 14 ± 4 |
 | Total     | 435 | 443 |
 
-| | FQL* | MFQL | DMFQL | MFQL$_{bptt}$ | MFFeBRAC | DMFReBRAC |
+| | FQL* | MFQL | DMFQL | MFQL_bptt | MFFeBRAC | DMFReBRAC |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | antmaze-large-navigate-singletask-v0   | $80 \pm 8$ | $62 \pm 11$ | $72 \pm 8$ | $64 \pm 13$ | $65 \pm 13$ | $83 \pm 7$ |
 |humanoidmaze-medium-navigate-singletask-v0    | $19 \pm 12$ | $49 \pm 9$ | $44 \pm 13$ | $54 \pm 9$ | $53 \pm 14$ | $52 \pm 7$ |
